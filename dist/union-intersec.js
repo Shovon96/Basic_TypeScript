@@ -17,7 +17,6 @@ const devUser2 = {
 };
 console.log(devUser1);
 console.log(devUser2);
-
 const fullstackDeveloper = {
     skills: ['HTML', 'CSS', 'JS', 'Express', 'Node JS'],
     designation1: 'Frontend Developer',
