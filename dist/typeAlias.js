@@ -1,5 +1,5 @@
 "use strict";
-// Type Alias with object and array
+// Type Alias with object and Fuction
 const student1 = {
     name: 'Hablu',
     age: 32,
