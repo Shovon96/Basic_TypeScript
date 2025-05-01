@@ -28,3 +28,11 @@ let coOrdenates = [23, 56];
 let ageName = [23, 'Bablu', true];
 ageName[0] = 42;
 console.log(ageName);
+// Referance type ---> Object
+const user = {
+    firstName: 'Fakhruddin',
+    lastName: 'Ahmed',
+    age: 23,
+    isMarried: false,
+    nationality: "Bangladesh"
+};
